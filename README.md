@@ -1,10 +1,6 @@
 # Odin Recipes
 
-
-
-This is a basic webpage that links to 3 recipes from the main landing page, index.html.  
-
-
+This is a basic webpage that links to 3 recipes from the main landing page, index.html.
 
 There are 4 basic steps to this project:
 
@@ -16,6 +12,4 @@ There are 4 basic steps to this project:
 
 - Add two more recipe pages
 
-
-
-Hosting is done with GitHub pages from the Settings menu.
+Hosting of [Odin Recipes](https://frotzen.github.io/odin-recipes) is done with GitHub pages from the Settings menu.
